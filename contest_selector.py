@@ -42,7 +42,7 @@ def run(contest='Spy $100 (1-max)', candidate_count=45):
  merged['Status']=merged.Status.fillna('').astype(str).str.upper().str.strip()
  merged=merged[~merged.Status.isin(['OUT','IR','O','D'])].copy()
  merged['RankPoints']=merged.Projection+.16*(merged.Ceiling-merged.Projection)-.028*merged.Ownership
- out=ROOT/'output_v7';out.mkdir(exist_ok=True)
+ out=ROOT/'output_v8';out.mkdir(exist_ok=True)
  salaries=out/'eligible_salaries.csv';ranking=out/'rank_input.csv'
  merged.drop(columns=['Projection','Ceiling','Ownership','RankPoints']).to_csv(salaries,index=False)
  merged[['ID','RankPoints']].rename(columns={'RankPoints':'Projection'}).to_csv(ranking,index=False)

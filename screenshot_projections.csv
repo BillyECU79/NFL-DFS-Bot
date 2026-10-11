@@ -1,72 +1,198 @@
 ID,Name,Position,Team,Salary,Projection,Ceiling,Ownership,Source
-44391835,Jacoby Brissett,QB,ARI,5500,20.03,30.4,21.33,User screenshot (manual transcription)
-44391825,Jared Goff,QB,DET,6600,20.55,33.8,16,User screenshot (manual transcription)
-44391827,Drake Maye,QB,NE,6300,19.41,30.2,7.13,User screenshot (manual transcription)
-44391830,Jayden Daniels,QB,WAS,6000,17.38,28.1,1.93,User screenshot (manual transcription)
-44391834,Bo Nix,QB,DEN,5600,17.4,26.8,1.73,User screenshot (manual transcription)
-44391840,Justin Herbert,QB,LAC,5100,15.39,24.9,3.67,User screenshot (manual transcription)
-44391846,Malik Willis,QB,MIA,4600,15.37,24.5,2.33,User screenshot (manual transcription)
-44391826,Brock Purdy,QB,SF,6500,17.85,27.7,1.8,User screenshot (manual transcription)
-44391824,Joe Burrow,QB,CIN,6900,19.47,30.5,3.27,User screenshot (manual transcription)
-44391833,Jordan Love,QB,GB,5700,16.81,27,6.4,User screenshot (manual transcription)
-44391832,Sam Darnold,QB,SEA,5800,16.63,29,4.67,User screenshot (manual transcription)
-44391838,Kyler Murray,QB,MIN,5200,16.98,27.3,4.53,User screenshot (manual transcription)
-44391829,Tyler Shough,QB,NO,6100,16.73,26.1,2.2,User screenshot (manual transcription)
-44391831,C.J. Stroud,QB,HOU,5900,17.47,28.2,2.2,User screenshot (manual transcription)
-44391896,Jahmyr Gibbs,RB,DET,9800,27.85,35.8,35.27,User screenshot (manual transcription)
-44391912,D'Andre Swift,RB,CHI,6200,18.68,24,29.13,User screenshot (manual transcription)
-44391938,Emanuel Wilson,RB,SEA,5300,13.84,18.2,10.6,User screenshot (manual transcription)
-44391932,Braelon Allen,RB,NYJ,5400,14.47,18.7,17.2,User screenshot (manual transcription)
-44391904,Chase Brown,RB,CIN,6900,16.11,20.8,15.8,User screenshot (manual transcription)
-44391900,Jonathan Taylor,RB,IND,7800,18.89,24.4,14.4,User screenshot (manual transcription)
-44391906,Jaylen Warren,RB,PIT,6700,15.39,19.9,9.87,User screenshot (manual transcription)
-44391898,Christian McCaffrey,RB,SF,8200,18.66,24,9.13,User screenshot (manual transcription)
-44391918,Cam Skattebo,RB,NYG,6000,13.97,18.4,5.73,User screenshot (manual transcription)
-44391934,Alvin Kamara,RB,NO,5400,11.65,15.4,2.6,User screenshot (manual transcription)
-44391926,Tony Pollard,RB,TEN,5600,10.33,13.7,2,User screenshot (manual transcription)
-44391962,Rico Dowdle,RB,PIT,4700,6.07,7.9,0.53,User screenshot (manual transcription)
-44392188,Michael Wilson,WR,ARI,6200,17.38,24,33.6,User screenshot (manual transcription)
-44392170,Amon-Ra St. Brown,WR,DET,7900,21.28,28.6,27.27,User screenshot (manual transcription)
-44392270,Roman Wilson,WR,PIT,3700,10,14.3,7,User screenshot (manual transcription)
-44392268,Antonio Williams,WR,WAS,3800,10.17,14.6,1.87,User screenshot (manual transcription)
-44392228,Malik Washington,WR,MIA,4600,12.38,17.1,9.07,User screenshot (manual transcription)
-44392166,Jaxon Smith-Njigba,WR,SEA,8800,21.61,30,17.6,User screenshot (manual transcription)
-44392180,Garrett Wilson,WR,NYJ,6600,16.11,22,14.13,User screenshot (manual transcription)
-44392198,Matthew Golden,WR,GB,5700,13.31,18.9,11.73,User screenshot (manual transcription)
-44392230,Courtland Sutton,WR,DEN,4600,9.9,13.7,3.33,User screenshot (manual transcription)
-44392176,Justin Jefferson,WR,MIN,7300,18.15,25,9.07,User screenshot (manual transcription)
-44392174,Nico Collins,WR,HOU,7500,17.53,24.4,9.47,User screenshot (manual transcription)
-44392172,Chris Olave,WR,NO,7700,17.96,25,12.73,User screenshot (manual transcription)
-44392178,Tee Higgins,WR,CIN,7100,14,19.8,3,User screenshot (manual transcription)
-44392182,Mike Evans,WR,SF,6500,11.98,16.8,4.67,User screenshot (manual transcription)
-44392194,Jameson Williams,WR,DET,5900,12.28,17.4,6.87,User screenshot (manual transcription)
-44392184,Christian Watson,WR,GB,6400,14.07,19.8,9.07,User screenshot (manual transcription)
-44392264,Cooper Kupp,WR,SEA,3800,6.78,9.9,0.73,User screenshot (manual transcription)
-44392186,Malik Nabers,WR,NYG,6300,13.87,19.2,7.4,User screenshot (manual transcription)
-44392192,Josh Downs,WR,IND,6000,12.72,17.8,5.27,User screenshot (manual transcription)
-44392220,Romeo Doubs,WR,NE,5000,11.57,16.4,11.6,User screenshot (manual transcription)
-44392588,Brock Bowers,TE,LV,7000,16.95,22.7,14.13,User screenshot (manual transcription)
-44392604,Juwan Johnson,TE,NO,4500,10.66,14.6,3.87,User screenshot (manual transcription)
-44392622,Michael Mayer,TE,LV,3500,8.13,10.9,2.6,User screenshot (manual transcription)
-44392630,Noah Fant,TE,NO,3000,3.47,4.9,0.33,User screenshot (manual transcription)
-44392596,Sam LaPorta,TE,DET,4900,12.29,16.6,12.07,User screenshot (manual transcription)
-44392618,Hunter Henry,TE,NE,3700,10.05,13.7,5.07,User screenshot (manual transcription)
-44392608,Isaiah Likely,TE,NYG,4300,11.43,15.4,5.27,User screenshot (manual transcription)
-44392592,George Kittle,TE,SF,5200,12.78,17.3,9.27,User screenshot (manual transcription)
-44392600,Tucker Kraft,TE,GB,4700,11.51,15.6,7.4,User screenshot (manual transcription)
-44392612,Dalton Schultz,TE,HOU,4000,10.15,13.8,4.13,User screenshot (manual transcription)
-44392594,Tyler Warren,TE,IND,5000,11.82,15.8,7.07,User screenshot (manual transcription)
-44392855,Broncos,DST,DEN,3200,8.62,18,5,User screenshot (manual transcription)
-44392853,Texans,DST,HOU,3400,8.66,18.8,7.6,User screenshot (manual transcription)
-44392856,Vikings,DST,MIN,3100,8.44,17.5,5.53,User screenshot (manual transcription)
-44392864,Jets,DST,NYJ,2700,8.32,17.4,10.6,User screenshot (manual transcription)
-44392860,Commanders,DST,WAS,2900,8.28,16.6,13.4,User screenshot (manual transcription)
-44392868,Raiders,DST,LV,2500,7.16,14.4,3.73,User screenshot (manual transcription)
-44392861,Browns,DST,CLE,2800,7.38,14.8,5.93,User screenshot (manual transcription)
-44392852,Bengals,DST,CIN,3500,7.78,16.5,6,User screenshot (manual transcription)
-44392873,Dolphins,DST,MIA,2000,5.46,12.5,3.93,User screenshot (manual transcription)
-44392862,Seahawks,DST,SEA,2800,6.04,13,2.93,User screenshot (manual transcription)
-44392872,Titans,DST,TEN,2100,4.98,12.1,7.2,User screenshot (manual transcription)
-44392869,49ers,DST,SF,2400,4.98,12.1,2.33,User screenshot (manual transcription)
-44392857,Lions,DST,DET,3000,5.42,12.7,1.93,User screenshot (manual transcription)
-44392871,Cardinals,DST,ARI,2200,3.8,9.1,0.73,User screenshot (manual transcription)
+44391846,Malik Willis,QB,MIA,4600,15.37,24.5,2.33,User screenshot manual transcription
+44391840,Justin Herbert,QB,LAC,5100,15.39,24.9,3.67,User screenshot manual transcription
+44391835,Jacoby Brissett,QB,ARI,5500,20.03,30.4,21.33,User screenshot manual transcription
+44391830,Jayden Daniels,QB,WAS,6000,17.38,28.1,1.93,User screenshot manual transcription
+44391834,Bo Nix,QB,DEN,5600,17.4,26.8,1.73,User screenshot manual transcription
+44391844,Jameis Winston,QB,NYG,4800,13.29,22.8,1.07,User screenshot manual transcription
+44391825,Jared Goff,QB,DET,6600,20.55,33.8,16.0,User screenshot manual transcription
+44391845,Tyson Bagent,QB,CHI,4700,16.59,27.0,6.47,User screenshot manual transcription
+44391827,Drake Maye,QB,NE,6300,19.41,30.2,7.13,User screenshot manual transcription
+44391839,Deshaun Watson,QB,CLE,5100,16.42,25.8,3.87,User screenshot manual transcription
+44391838,Kyler Murray,QB,MIN,5200,16.98,27.3,4.53,User screenshot manual transcription
+44391837,Aaron Rodgers,QB,PIT,5300,15.68,26.8,1.87,User screenshot manual transcription
+44391824,Joe Burrow,QB,CIN,6900,19.47,30.5,3.27,User screenshot manual transcription
+44391841,Daniel Jones,QB,IND,5000,14.82,24.3,1.93,User screenshot manual transcription
+44391842,Geno Smith,QB,NYJ,5000,14.9,24.1,1.93,User screenshot manual transcription
+44391826,Brock Purdy,QB,SF,6500,17.85,27.7,1.8,User screenshot manual transcription
+44391843,Cam Ward,QB,TEN,4900,12.74,21.4,0.33,User screenshot manual transcription
+44391833,Jordan Love,QB,GB,5700,16.81,27.0,6.4,User screenshot manual transcription
+44391829,Tyler Shough,QB,NO,6100,16.73,26.1,2.2,User screenshot manual transcription
+44391831,C.J. Stroud,QB,HOU,5900,17.47,28.2,2.2,User screenshot manual transcription
+44391832,Sam Darnold,QB,SEA,5800,16.63,29.0,4.67,User screenshot manual transcription
+44391836,Kirk Cousins,QB,LV,5400,15.17,25.9,3.33,User screenshot manual transcription
+44391912,D'Andre Swift,RB,CHI,6200,18.68,24.0,29.13,User screenshot manual transcription
+44391896,Jahmyr Gibbs,RB,DET,9800,27.85,35.8,35.27,User screenshot manual transcription
+44391908,Aaron Jones Sr.,RB,MIN,6500,17.17,22.6,18.8,User screenshot manual transcription
+44391938,Emanuel Wilson,RB,SEA,5300,13.84,18.2,10.6,User screenshot manual transcription
+44391992,Mike Washington Jr.,RB,LV,4200,15.45,20.4,25.6,User screenshot manual transcription
+44391932,Braelon Allen,RB,NYJ,5400,14.47,18.7,17.2,User screenshot manual transcription
+44391904,Chase Brown,RB,CIN,6900,16.11,20.8,15.8,User screenshot manual transcription
+44391900,Jonathan Taylor,RB,IND,7800,18.89,24.4,14.4,User screenshot manual transcription
+44391906,Jaylen Warren,RB,PIT,6700,15.39,19.9,9.87,User screenshot manual transcription
+44391898,Christian McCaffrey,RB,SF,8200,18.66,24.0,9.13,User screenshot manual transcription
+44391942,RJ Harvey,RB,DEN,5200,11.14,14.4,3.33,User screenshot manual transcription
+44391924,Quinshon Judkins,RB,CLE,5700,13.34,17.6,6.67,User screenshot manual transcription
+44391930,Rhamondre Stevenson,RB,NE,5500,11.73,15.2,4.67,User screenshot manual transcription
+44391914,Jeremiyah Love,RB,ARI,6100,12.84,17.0,4.8,User screenshot manual transcription
+44391954,Jacory Croskey-Merritt,RB,WAS,4900,10.96,14.5,1.4,User screenshot manual transcription
+44391918,Cam Skattebo,RB,NYG,6000,13.97,18.4,5.73,User screenshot manual transcription
+44391934,Alvin Kamara,RB,NO,5400,11.65,15.4,2.6,User screenshot manual transcription
+44391948,J.K. Dobbins,RB,DEN,5000,10.19,13.5,0.8,User screenshot manual transcription
+44391950,TreVeyon Henderson,RB,NE,5000,9.26,12.3,1.27,User screenshot manual transcription
+44391956,MarShawn Lloyd,RB,GB,4800,9.45,12.5,1.93,User screenshot manual transcription
+44391922,David Montgomery,RB,HOU,5800,11.36,15.0,1.93,User screenshot manual transcription
+44391936,Ollie Gordon II,RB,MIA,5300,10.35,13.7,2.8,User screenshot manual transcription
+44391974,Keaton Mitchell,RB,LAC,4500,8.39,11.2,1.53,User screenshot manual transcription
+44391946,Tyler Allgeier,RB,ARI,5100,8.04,10.7,2.27,User screenshot manual transcription
+44391976,George Holani,RB,SEA,4500,6.8,9.1,0.8,User screenshot manual transcription
+44391958,Woody Marks,RB,HOU,4800,7.9,10.5,0.87,User screenshot manual transcription
+44391984,Samaje Perine,RB,CIN,4400,6.1,8.2,0.13,User screenshot manual transcription
+44391926,Tony Pollard,RB,TEN,5600,10.33,13.7,2.0,User screenshot manual transcription
+44391962,Rico Dowdle,RB,PIT,4700,6.07,7.9,0.53,User screenshot manual transcription
+44391916,Omarion Hampton,RB,LAC,6000,8.9,11.8,1.07,User screenshot manual transcription
+44391968,Kaleb Johnson,RB,GB,4600,5.9,7.9,0.8,User screenshot manual transcription
+44391998,Roschon Johnson,RB,CHI,4200,4.24,5.5,0.07,User screenshot manual transcription
+44391970,Tyjae Spears,RB,TEN,4600,6.15,8.3,0.2,User screenshot manual transcription
+44391952,Kendre Miller,RB,NO,4900,6.44,8.6,0.13,User screenshot manual transcription
+44391990,Kimani Vidal,RB,LAC,4300,4.29,5.8,0.2,User screenshot manual transcription
+44391964,Raheim Sanders,RB,CLE,4700,5.13,6.9,0.13,User screenshot manual transcription
+44391944,Rachaad White,RB,WAS,5100,5.42,7.1,0.87,User screenshot manual transcription
+44391996,Isaiah Davis,RB,NYJ,4200,4.1,5.5,0.13,User screenshot manual transcription
+44391978,Najee Harris,RB,NYG,4500,5.04,6.7,0.13,User screenshot manual transcription
+44392188,Michael Wilson,WR,ARI,6200,17.38,24.0,33.6,User screenshot manual transcription
+44392170,Amon-Ra St. Brown,WR,DET,7900,21.28,28.6,27.27,User screenshot manual transcription
+44392270,Roman Wilson,WR,PIT,3700,10.0,14.3,7.0,User screenshot manual transcription
+44392268,Antonio Williams,WR,WAS,3800,10.17,14.6,1.87,User screenshot manual transcription
+44392228,Malik Washington,WR,MIA,4600,12.38,17.1,9.07,User screenshot manual transcription
+44392244,KC Concepcion Jr.,WR,CLE,4200,10.94,15.0,9.13,User screenshot manual transcription
+44392222,Luther Burden III,WR,CHI,4900,12.49,17.3,10.27,User screenshot manual transcription
+44392288,Dohnte Meyers,WR,CIN,3500,8.77,12.1,3.33,User screenshot manual transcription
+44392242,Tre' Harris,WR,LAC,4100,9.89,13.9,15.67,User screenshot manual transcription
+44392208,DK Metcalf,WR,PIT,5400,12.92,18.2,8.6,User screenshot manual transcription
+44392276,Chris Bell,WR,MIA,3600,8.28,12.2,2.07,User screenshot manual transcription
+44392176,Justin Jefferson,WR,MIN,7300,18.15,25.0,9.07,User screenshot manual transcription
+44392220,Romeo Doubs,WR,NE,5000,11.57,16.4,11.6,User screenshot manual transcription
+44392312,Efton Chism III,WR,NE,3200,6.82,9.6,1.93,User screenshot manual transcription
+44392300,Kendrick Bourne,WR,ARI,3400,6.87,9.6,1.27,User screenshot manual transcription
+44392180,Garrett Wilson,WR,NYJ,6600,16.11,22.0,14.13,User screenshot manual transcription
+44392298,Germie Bernard,WR,PIT,3400,6.79,9.6,0.93,User screenshot manual transcription
+44392166,Jaxon Smith-Njigba,WR,SEA,8800,21.61,30.0,17.6,User screenshot manual transcription
+44392290,DeMario Douglas,WR,NE,3500,6.89,9.7,2.07,User screenshot manual transcription
+44392294,Isaac TeSlaa,WR,DET,3400,6.46,9.3,1.4,User screenshot manual transcription
+44392198,Matthew Golden,WR,GB,5700,13.31,18.9,11.73,User screenshot manual transcription
+44392230,Courtland Sutton,WR,DEN,4600,9.9,13.7,3.33,User screenshot manual transcription
+44392262,Kalif Raymond,WR,CHI,3900,7.91,11.2,2.87,User screenshot manual transcription
+44392388,Jalen Brooks,WR,ARI,3000,5.52,7.9,0.67,User screenshot manual transcription
+44392314,Jaylin Noel,WR,HOU,3200,5.85,8.3,1.0,User screenshot manual transcription
+44392226,Rome Odunze,WR,CHI,4700,9.74,14.0,3.33,User screenshot manual transcription
+44392210,Carnell Tate,WR,TEN,5300,11.51,16.1,2.27,User screenshot manual transcription
+44392566,Kevin Coleman Jr.,WR,MIA,3000,5.38,7.6,0.4,User screenshot manual transcription
+44392174,Nico Collins,WR,HOU,7500,17.53,24.4,9.47,User screenshot manual transcription
+44392172,Chris Olave,WR,NO,7700,17.96,25.0,12.73,User screenshot manual transcription
+44392234,Wan'Dale Robinson,WR,TEN,4500,9.19,12.8,1.87,User screenshot manual transcription
+44392190,Jaylen Waddle,WR,DEN,6100,13.48,18.9,7.07,User screenshot manual transcription
+44392518,Bryce Lance,WR,NO,3000,4.96,7.3,0.53,User screenshot manual transcription
+44392186,Malik Nabers,WR,NYG,6300,13.87,19.2,7.4,User screenshot manual transcription
+44392272,Isaiah Williams,WR,NYJ,3700,6.56,9.2,1.0,User screenshot manual transcription
+44392264,Cooper Kupp,WR,SEA,3800,6.78,9.9,0.73,User screenshot manual transcription
+44392194,Jameson Williams,WR,DET,5900,12.28,17.4,6.87,User screenshot manual transcription
+44392448,Elic Ayomanor,WR,TEN,3000,4.46,6.4,0.4,User screenshot manual transcription
+44392184,Christian Watson,WR,GB,6400,14.07,19.8,9.07,User screenshot manual transcription
+44392498,Sterling Shepard,WR,NYJ,3000,3.96,5.6,0.2,User screenshot manual transcription
+44392202,Deebo Samuel Sr.,WR,SF,5500,10.6,14.8,4.4,User screenshot manual transcription
+44392310,Mitch Tinsley,WR,CIN,3300,4.69,6.9,0.33,User screenshot manual transcription
+44392216,Devaughn Vele,WR,NO,5200,9.8,13.6,2.4,User screenshot manual transcription
+44392340,Tory Horton,WR,SEA,3000,3.33,4.9,0.13,User screenshot manual transcription
+44392266,Darnell Mooney,WR,NYG,3800,5.41,8.0,0.47,User screenshot manual transcription
+44392320,Skyy Moore,WR,GB,3200,3.96,5.6,0.33,User screenshot manual transcription
+44392296,Marvin Mims Jr.,WR,DEN,3400,4.2,6.4,0.4,User screenshot manual transcription
+44392324,Derius Davis,WR,LAC,3100,3.35,5.3,0.13,User screenshot manual transcription
+44392274,Jerry Jeudy,WR,CLE,3700,4.76,6.9,0.13,User screenshot manual transcription
+44392212,Terry McLaurin,WR,WAS,5300,9.12,13.1,3.87,User screenshot manual transcription
+44392178,Tee Higgins,WR,CIN,7100,14.0,19.8,3.0,User screenshot manual transcription
+44392250,Malachi Fields,WR,NYG,4300,6.16,9.1,0.6,User screenshot manual transcription
+44392382,Zavion Thomas,WR,CHI,3000,2.13,3.1,0.1,User screenshot manual transcription
+44392586,Jacob Cowing,WR,SF,3000,2.51,3.8,0.13,User screenshot manual transcription
+44392182,Mike Evans,WR,SF,6500,11.98,16.8,4.67,User screenshot manual transcription
+44392554,Dareke Young,WR,LV,3000,2.41,3.7,0.1,User screenshot manual transcription
+44392196,Jordan Addison,WR,MIN,5800,9.79,14.1,3.07,User screenshot manual transcription
+44392286,Calvin Ridley,WR,TEN,3500,3.11,4.9,0.13,User screenshot manual transcription
+44392254,Xavier Hutchinson,WR,HOU,4000,4.36,6.4,0.27,User screenshot manual transcription
+44392248,Jauan Jennings,WR,MIN,4100,4.46,6.7,0.27,User screenshot manual transcription
+44392284,Brandin Cooks,WR,SF,3500,2.95,4.6,0.1,User screenshot manual transcription
+44392200,Ladd McConkey,WR,LAC,5600,7.33,10.8,0.73,User screenshot manual transcription
+44392240,Keenan Allen,WR,IND,4300,7.96,11.0,3.33,User screenshot manual transcription
+44392278,Laquon Treadwell,WR,IND,3600,6.39,9.5,0.53,User screenshot manual transcription
+44392224,Tre Tucker,WR,LV,4800,9.58,13.6,5.07,User screenshot manual transcription
+44392316,Troy Franklin,WR,DEN,3200,4.94,7.3,0.73,User screenshot manual transcription
+44392328,Kyle Williams,WR,NE,3100,4.31,6.4,0.13,User screenshot manual transcription
+44392318,Treylon Burks,WR,WAS,3200,4.63,7.0,0.13,User screenshot manual transcription
+44392192,Josh Downs,WR,IND,6000,12.72,17.8,5.27,User screenshot manual transcription
+44392308,Marquez Valdes-Scantling,WR,LAC,3300,5.34,7.9,0.47,User screenshot manual transcription
+44392214,Denzel Boston,WR,CLE,5200,10.53,15.0,5.8,User screenshot manual transcription
+44392258,Kayshon Boutte,WR,HOU,3900,6.51,9.7,1.07,User screenshot manual transcription
+44392330,Dyami Brown,WR,WAS,3100,4.35,6.4,0.47,User screenshot manual transcription
+44392282,Colbie Young,WR,CIN,3600,6.08,8.6,0.8,User screenshot manual transcription
+44392256,Rashid Shaheed,WR,SEA,4000,6.7,9.8,1.67,User screenshot manual transcription
+44392590,Trey McBride,TE,ARI,6700,20.59,27.5,28.13,User screenshot manual transcription
+44392618,Hunter Henry,TE,NE,3700,10.05,13.7,5.07,User screenshot manual transcription
+44392596,Sam LaPorta,TE,DET,4900,12.29,16.6,12.07,User screenshot manual transcription
+44392632,Darnell Washington,TE,PIT,2900,6.18,8.4,1.53,User screenshot manual transcription
+44392608,Isaiah Likely,TE,NYG,4300,11.43,15.4,5.27,User screenshot manual transcription
+44392628,Greg Dulcich,TE,MIA,3100,6.35,8.7,2.07,User screenshot manual transcription
+44392616,Kenyon Sadiq,TE,NYJ,3800,8.7,11.9,2.93,User screenshot manual transcription
+44392846,Tanner Hudson,TE,CIN,2500,2.79,4.1,0.47,User screenshot manual transcription
+44392700,Brock Wright,TE,DET,2500,2.85,4.0,0.73,User screenshot manual transcription
+44392780,Mason Taylor,TE,NYJ,2500,4.76,6.5,1.2,User screenshot manual transcription
+44392610,Mike Gesicki,TE,CIN,4100,6.7,9.2,2.2,User screenshot manual transcription
+44392598,T.J. Hockenson,TE,MIN,4800,9.6,13.0,3.67,User screenshot manual transcription
+44392592,George Kittle,TE,SF,5200,12.78,17.3,9.27,User screenshot manual transcription
+44392646,Theo Johnson,TE,NYG,2600,2.55,3.8,0.2,User screenshot manual transcription
+44392636,Evan Engram,TE,DEN,2800,6.2,8.5,1.2,User screenshot manual transcription
+44392614,Pat Freiermuth,TE,PIT,3900,7.91,10.7,1.93,User screenshot manual transcription
+44392626,AJ Barner,TE,SEA,3200,7.07,9.6,3.67,User screenshot manual transcription
+44392648,Drew Sample,TE,CIN,2600,2.53,3.7,0.13,User screenshot manual transcription
+44392602,Colston Loveland,TE,CHI,4600,9.74,13.2,4.27,User screenshot manual transcription
+44392638,Eli Raridon,TE,NE,2700,3.87,5.4,0.13,User screenshot manual transcription
+44392644,Cole Kmet,TE,CHI,2600,3.49,5.0,0.47,User screenshot manual transcription
+44392634,Gunnar Helm,TE,TEN,2800,5.44,7.5,0.67,User screenshot manual transcription
+44392642,Elijah Higgins,TE,ARI,2700,2.65,3.9,0.4,User screenshot manual transcription
+44392612,Dalton Schultz,TE,HOU,4000,10.15,13.8,4.13,User screenshot manual transcription
+44392624,Chig Okonkwo,TE,WAS,3300,6.34,8.8,2.6,User screenshot manual transcription
+44392594,Tyler Warren,TE,IND,5000,11.82,15.8,7.07,User screenshot manual transcription
+44392620,Oronde Gadsden II,TE,LAC,3600,7.17,9.9,5.0,User screenshot manual transcription
+44392782,Jeremy Ruckert,TE,NYJ,2500,2.41,3.4,0.2,User screenshot manual transcription
+44392650,Charlie Kolar,TE,LAC,2500,3.31,4.7,0.47,User screenshot manual transcription
+44392600,Tucker Kraft,TE,GB,4700,11.51,15.6,7.4,User screenshot manual transcription
+44392834,Will Kacmarek,TE,MIA,2500,2.79,4.1,0.2,User screenshot manual transcription
+44392606,Harold Fannin Jr.,TE,CLE,4400,10.77,14.4,4.07,User screenshot manual transcription
+44392604,Juwan Johnson,TE,NO,4500,10.66,14.6,3.87,User screenshot manual transcription
+44392588,Brock Bowers,TE,LV,7000,16.95,22.7,14.13,User screenshot manual transcription
+44392622,Michael Mayer,TE,LV,3500,8.13,10.9,2.6,User screenshot manual transcription
+44392630,Noah Fant,TE,NO,3000,3.47,4.9,0.33,User screenshot manual transcription
+44392746,Daniel Bellinger,TE,TEN,2500,2.63,3.8,0.2,User screenshot manual transcription
+44392652,Foster Moreau,TE,HOU,2500,2.75,3.8,0.13,User screenshot manual transcription
+44392640,Jonnu Smith,TE,GB,2700,2.55,3.7,0.27,User screenshot manual transcription
+44392855,Broncos,DST,DEN,3200,8.62,18.0,5.0,User screenshot manual transcription
+44392853,Texans,DST,HOU,3400,8.66,18.8,7.6,User screenshot manual transcription
+44392856,Vikings,DST,MIN,3100,8.44,17.5,5.53,User screenshot manual transcription
+44392864,Jets,DST,NYJ,2700,8.32,17.4,10.6,User screenshot manual transcription
+44392860,Commanders,DST,WAS,2900,8.28,16.6,13.4,User screenshot manual transcription
+44392852,Bengals,DST,CIN,3500,7.78,16.5,6.0,User screenshot manual transcription
+44392868,Raiders,DST,LV,2500,7.16,14.4,3.73,User screenshot manual transcription
+44392861,Browns,DST,CLE,2800,7.38,14.8,5.93,User screenshot manual transcription
+44392873,Dolphins,DST,MIA,2000,5.46,12.5,3.93,User screenshot manual transcription
+44392862,Seahawks,DST,SEA,2800,6.04,13.0,2.93,User screenshot manual transcription
+44392872,Titans,DST,TEN,2100,4.98,12.1,7.2,User screenshot manual transcription
+44392869,49ers,DST,SF,2400,4.98,12.1,2.33,User screenshot manual transcription
+44392854,Steelers,DST,PIT,3300,5.18,12.6,2.07,User screenshot manual transcription
+44392870,Chargers,DST,LAC,2300,4.44,10.6,4.07,User screenshot manual transcription
+44392858,Patriots,DST,NE,3000,5.38,12.8,2.73,User screenshot manual transcription
+44392863,Packers,DST,GB,2700,5.38,12.5,5.27,User screenshot manual transcription
+44392865,Saints,DST,NO,2600,5.6,13.1,2.8,User screenshot manual transcription
+44392866,Giants,DST,NYG,2600,5.08,12.2,1.6,User screenshot manual transcription
+44392859,Bears,DST,CHI,2900,5.34,12.5,1.0,User screenshot manual transcription
+44392867,Colts,DST,IND,2500,4.6,11.2,3.6,User screenshot manual transcription
+44392857,Lions,DST,DET,3000,5.42,12.7,1.93,User screenshot manual transcription
+44392871,Cardinals,DST,ARI,2200,3.8,9.1,0.73,User screenshot manual transcription

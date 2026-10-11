@@ -1,27 +1,22 @@
-# NFL DFS V7 — Contest Selector (research prototype)
+# NFL DFS Version 8 — Screenshot Player Pool
 
-## Run on Mac
+This update replaces Version 7 and keeps the same Streamlit dashboard and contest selector.
 
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r requirements.txt
-streamlit run app.py
-```
+## What changed
+- 197 screenshot rows manually transcribed across QB, RB, WR, TE and DST.
+- All 197 matched to an exact DraftKings player ID and position. Players not in the screenshots are excluded.
+- The app still uses a **heuristic** lineup ranking, NOT validated expected return.
+- All projections are snapshots provided by the user; they are not updated live.
+- Screenshots were manually transcribed. Check critical values and statuses before entering contests.
+- Questionable players remain eligible but require injury/inactive review. OUT/IR players are excluded.
+- The program does not submit lineups to DraftKings.
 
-Or run `python contest_selector.py --contest 'Spy $100 (1-max)'`.
+## Update your existing Mac installation
+1. Stop the old Streamlit app in Terminal with **Control+C**.
+2. Unzip Version 8. Open its folder and copy **all files except `.venv`** into your existing `NFL_DFS_V7_Contest_Selector` folder, choosing **Replace** when asked. (Do not delete `.venv`.)
+3. In the same Terminal, while inside the original folder, run `source .venv/bin/activate` if needed and then `python -m streamlit run app.py`.
+4. If Streamlit is still running, refresh the browser. Verify the matched projection count is **197**.
+5. To update GitHub, upload the new files to the existing repository and commit changes. No new repository is needed.
 
-## What is new
-- Four contest presets: $100 1-max, $150 3-max, $555 5-max, $333 125-max (user enters up to three).
-- Match screenshot projections to DraftKings IDs and verify position, salary and team.
-- Generate up to 45 candidate lineups and select 1 or 3 depending on contest.
-- Prefer QB/WR or QB/TE correlation, while accounting heuristically for projection, ceiling and ownership.
-- Show and export selected lineups, plus top candidate rankings.
-
-## Important limitations
-- Only 71 player projections from screenshots were transcribed into the source file. **Not the entire slate.** Players absent from the projection file are excluded.
-- No verified live injury/starting status; questionable players require manual confirmation.
-- Ownership values are third-party estimates, not observed ownership.
-- The ranking formula is a heuristic, **not calibrated ROI or expected payout**. Sum of individual ceilings is not a lineup ceiling.
-- No validated field simulation or payout-aware ranking yet. Contest payouts remain included for later integration.
-- Do not automate DraftKings entry. Review lineup and contest rules manually.
+## Important
+The current contest-specific scoring and opponent simulations have NOT been historically calibrated. The screenshots' displayed ceilings are provider-defined values, not verified statistical percentiles. Do not interpret these lineups as guaranteed or validated high-stakes recommendations. Check official inactives, team assignments, contest eligibility, and updated odds before locking lineups.

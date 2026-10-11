@@ -5,7 +5,7 @@ from contest_selector import CONTESTS,run,validate_inputs
 ROOT=Path(__file__).resolve().parent
 st.set_page_config(page_title='NFL DFS Contest Lab',layout='wide')
 st.title('NFL DFS • Single-entry and small-portfolio lab')
-st.warning('Research-only prototype. Only 71 screenshot-matched projections are currently available. No live inactives or validated ownership/ROI model. Do not treat rankings as guaranteed or calibrated.')
+st.warning('Research-only prototype. Only screenshot-matched projections are eligible. No live inactives or validated ownership/ROI model. Do not treat rankings as guaranteed or calibrated.')
 contest=st.selectbox('Choose tournament',list(CONTESTS))
 config=CONTESTS[contest]
 a,b,c=st.columns(3)
